@@ -6,4 +6,4 @@
 ### 四.[SVM](https://github.com/Spr1nt0a0/Machine-Learning/tree/master/SVM)
 ### 五.[KMEANS聚类](https://github.com/Spr1nt0a0/Machine-Learning/tree/master/K-Means)
 ### 六.[PCA主成分分析](https://github.com/Spr1nt0a0/Machine-Learning/tree/master/PCA)
-### 七.异常检测
+### 七.[异常检测](https://github.com/Spr1nt0a0/Machine-Learning/tree/master/AnomalyDetection)
