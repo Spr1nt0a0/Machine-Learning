@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-# Author: Bob
+# Author: Spr1nt
 # Date:   2016.11.24
 import numpy as np
 from matplotlib import pyplot as plt
